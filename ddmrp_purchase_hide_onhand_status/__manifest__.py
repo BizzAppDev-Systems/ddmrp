@@ -3,7 +3,7 @@
 
 {
     "name": "DDMRP Purchase Hide On-Hand Status",
-    "version": "14.0.1.0.0",
+    "version": "15.0.1.0.0",
     "summary": "Replace purchase onhand status with smart button.",
     "author": "Camptocamp SA, Odoo Community Association (OCA)",
     "development_status": "Beta",
